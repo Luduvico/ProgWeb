@@ -1,0 +1,12 @@
+
+div{
+	width: 400px;
+	border: 10px solid black;
+	background: lightgray;
+	padding: 6 50 6 50;
+	border-bottom-left-radius: 60px;
+	border-top-right-radius: 60px;
+	border-bottom-right-radius: 18px;
+	border-top-left-radius: 18px;
+	
+}
